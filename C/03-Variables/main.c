@@ -9,9 +9,9 @@ int main (){
     int val1 = 10;
     float val2 = 120022.125;
     char ch = 'a';
-
-    // now if we want to print it we have to use datatypes specifiers eg %d, %f, %fl, %c
-
+    
+    // now if we want to print it we have to use datatypes specifiers eg %d, %f, %fl, %ch
+    
     printf("These are the values we stored preveously:\n int = %d\n float = %f\n char = %c\n", val1, val2, ch);
 
 }
